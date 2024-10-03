@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\CalculatorApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3DD405-7422-41F4-A194-368CCEF1DD21}|CalculatorApplication\\CalculatorApplication.csproj|c:\\users\\admin\\source\\repos\\calculatorapplication\\calculatorapplication\\frmcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3DD405-7422-41F4-A194-368CCEF1DD21}|CalculatorApplication\\CalculatorApplication.csproj|solutionrelative:calculatorapplication\\frmcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3DD405-7422-41F4-A194-368CCEF1DD21}|CalculatorApplication\\CalculatorApplication.csproj|C:\\Users\\Admin\\source\\repos\\CalculatorApplication\\calculatorapplication\\frmcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD3DD405-7422-41F4-A194-368CCEF1DD21}|CalculatorApplication\\CalculatorApplication.csproj|solutionrelative:calculatorapplication\\frmcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3DD405-7422-41F4-A194-368CCEF1DD21}|CalculatorApplication\\CalculatorApplication.csproj|C:\\Users\\Admin\\source\\repos\\CalculatorApplication\\calculatorapplication\\frmcalculator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3DD405-7422-41F4-A194-368CCEF1DD21}|CalculatorApplication\\CalculatorApplication.csproj|solutionrelative:calculatorapplication\\frmcalculator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 146,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmCalculator.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CalculatorApplication\\CalculatorApplication\\FrmCalculator.cs",
+              "RelativeDocumentMoniker": "CalculatorApplication\\FrmCalculator.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CalculatorApplication\\CalculatorApplication\\FrmCalculator.cs [Design]",
+              "RelativeToolTip": "CalculatorApplication\\FrmCalculator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T01:07:33.009Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CalculatorApplication\\CalculatorApplication\\FrmCalculator.cs",
+              "RelativeDocumentMoniker": "CalculatorApplication\\FrmCalculator.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CalculatorApplication\\CalculatorApplication\\FrmCalculator.cs",
+              "RelativeToolTip": "CalculatorApplication\\FrmCalculator.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAcwDUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T01:10:21.735Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmCalculator.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CalculatorApplication\\CalculatorApplication\\FrmCalculator.Designer.cs",
+              "RelativeDocumentMoniker": "CalculatorApplication\\FrmCalculator.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CalculatorApplication\\CalculatorApplication\\FrmCalculator.Designer.cs",
+              "RelativeToolTip": "CalculatorApplication\\FrmCalculator.Designer.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAowJcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T01:28:17.02Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
